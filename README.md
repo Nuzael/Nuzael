@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nuzael&layout=compact&theme=dark&exclude_repo=my-anime-list&hide_border=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nuzael&theme=dark&hide_border=true&include_all_commits=true&line_height=21.5&hide_title=true&hide_rank=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nuzael&layout=compact&theme=dark&exclude_repo=my-anime-list&hide_border=true&hide_title=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nuzael&theme=dark&hide_border=true&include_all_commits=true&line_height=20&hide_title=true&hide_rank=true)
 
 ##
 
