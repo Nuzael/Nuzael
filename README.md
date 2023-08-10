@@ -1,4 +1,4 @@
-<h2>Hey there, welcome to my repository!</h2>
+<h2>Welcome to my repository!</h2>
 
 <!--
 **nuzael/nuzael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nuzael&layout=compact&theme=dark&exclude_repo=my-anime-list&hide_border=true&hide_title=true)
+<!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nuzael&theme=dark&hide_border=true&include_all_commits=true&line_height=20&hide_title=true&hide_rank=true)
-
+-->
 ##
 
 <h3>Skills / Study:</h3>
