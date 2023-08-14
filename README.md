@@ -29,5 +29,5 @@ In my free time, I enjoy listening to music, reading, staying updated about the 
 * **Age**: 23
 * **Location**: Santa Cruz da Baixa Verde - PE, Brazil
 * **Stack**: Python - Django - PostgreSQL - Java - Docker
-* **University**: Bachelor's in Information Systems - UFRPE/UAST (Ongoing)"
+* **University**: Bachelor's in Information Systems - UAST/UFRPE (Ongoing)"
 
