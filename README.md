@@ -1,13 +1,33 @@
-<h2>Welcome to my repository!</h2>
-##
-
-<h3>Skills / Study:</h3>
-<div style="display: inline_block">
-  <img align="center" alt="Nuzael-Python" height="25" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-  <img align="center" alt="Nuzael-Django" height="25" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img align="center" alt="Nuzael-Postgres" height="25" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img align="center" alt="Nuzael-Docker" height="25" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img align="center" alt="Nuzael-JavaScript" height="25" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img align="center" alt="Nuzael-HTML" height="25" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img align="center" alt="Nuzael-CSS" height="25" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<div align="center">
+    <a target='_blank' href="https://twitter.com/nuzzael">
+        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+    </a>
+    <a target='_blank' href="https://instagram.com/nuzzael">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+    </a>
+    <a target='_blank' href="https://linkedin.com/in/nuzael">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a target='_blank' href="https://dev.to/nuzael">
+        <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="dev.to">
+    </a>
 </div>
+
+## Welcome to my repository!
+
+Make yourself at home.
+
+## Public information
+
+My name is Emanuel, also known as Nuzael. Currently, I reside in Pernambuco, Brazil, and dedicate my time to building my own applications.
+
+In my free time, I enjoy listening to music, reading, staying updated about the technology market, and engaging in IT communities.
+
+## Detailed information
+
+* **Name**: Julio Emanuel
+* **Age**: 23
+* **Location**: Santa Cruz da Baixa Verde - PE, Brazil
+* **Stack**: Python - Django - PostgreSQL - Java - Docker
+* **University**: Bachelor's in Information Systems - UFRPE/UAST (Ongoing)"
+
