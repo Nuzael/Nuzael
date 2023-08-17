@@ -2,7 +2,7 @@
     <a target='_blank' href="https://twitter.com/nuzzael">
         <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
     </a>
-    <a target='_blank' href="https://instagram.com/nuzzael">
+    <a target='_blank' href="https://instagram.com/nuzael">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
     </a>
     <a target='_blank' href="https://linkedin.com/in/nuzael">
