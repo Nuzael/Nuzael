@@ -1,8 +1,8 @@
 <div align="center">
     <a target='_blank' href="https://twitter.com/nuzzael"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
-    <a target='_blank' href="https://instagram.com/nuzael"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+<!--     <a target='_blank' href="https://instagram.com/nuzael"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a> -->
     <a target='_blank' href="https://linkedin.com/in/nuzael"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    <a target='_blank' href="https://dev.to/nuzael"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="dev.to"></a>
+<!--     <a target='_blank' href="https://dev.to/nuzael"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="dev.to"></a> -->
 </div>
 
 ## Welcome to my repository!
