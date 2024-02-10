@@ -17,7 +17,6 @@ In my free time, I enjoy listening to music, reading, staying updated about the 
 
 ## Detailed information
 
-* **Name**: Julio Emanuel
 * **Stack**: Python - Django - PostgreSQL - Java - Docker
 * **University**: Bachelor's in Information Systems - UAST/UFRPE (Ongoing)
 
